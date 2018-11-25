@@ -1,0 +1,13 @@
+.bg-intranet{
+    background-color: #00539f;
+}
+#navbarText{
+    font-size: 0.7em;
+}
+#derecha a{
+    text-decoration: none;
+}
+.active :hover{
+    background-color: white;
+    color:#00539f !important;
+}

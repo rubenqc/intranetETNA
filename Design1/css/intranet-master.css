@@ -1,0 +1,14 @@
+.bg-intranet{
+    background-color: #00539f;
+    padding: 0;
+}
+#navbarText{
+    font-size: 0.7em;
+    margin:8px 16px;
+}
+button>span{
+    margin:5px ;
+}
+#derecha a{
+    text-decoration: none;
+}
